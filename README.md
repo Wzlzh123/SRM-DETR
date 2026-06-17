@@ -1,4 +1,4 @@
-# SRMDETR: Dynamic Adaptive Multispectral Detection Transformer with SR
+# SRM-DETR: A Super-Resolution-Guided RGB–IRMultimodal Fusion Detector with Dual-AxisDeformable Convolution
 
 ![Paper Overview](docs/overview.jpg)
 
