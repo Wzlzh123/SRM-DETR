@@ -1,6 +1,6 @@
 # SRM-DETR: A Super-Resolution-Guided RGB–IRMultimodal Fusion Detector with Dual-AxisDeformable Convolution
 
-![Paper Overview](docs/overview.jpg)
+![Paper Overview](overview.jpg)
 
 ## Requirements
 We use PaddlePaddle2.5(Stable) with the CUDA11.7 Linux version and our python version is 3.8. Please refer to the official guide of [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection/tree/develop) for installation guide.
